@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi there, I'm Muhammad Zeeshan! 👋
 
-<!--
-**AIzeeshan1085/AIzeeshan1085** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a passionate **Data Science Student** and aspiring Data Analyst focused on transforming raw, messy data into structured, actionable business insights. I love building end-to-end data pipelines that connect databases directly to live executive dashboards.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Technical Tech Stack & Skills
+
+- **Programming & AI:** Python, Artificial Intelligence, Machine Learning
+- **Data Analytics & BI:** Microsoft Excel, Power BI (ETL & Data Modeling)
+- **Databases:** MySQL (Relational Database Management & Query Optimization)
+
+---
+
+### 🚀 Featured Portfolio Projects
+
+#### 📊 [End-to-End E-Commerce Sales Pipeline](https://github.com/Alzeeshan1085/ECommerce-Sales-Data-Pipeline)
+- **Description:** Cleaned complex transactional data in Excel, structured and queried it inside MySQL, and engineered a live database connection to a dynamic Power BI Dashboard.
+- **Tools Used:** Excel, MySQL, Power BI.
+
+---
+
+### 📫 Connect with Me
+
+- 📍 **Location:** Sargodha, Pakistan
+- 💼 **Freelance Profiles:** [Upwork / Fiverr Profiles Coming Soon!]
+-
+
