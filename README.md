@@ -14,7 +14,7 @@ I am a passionate **Data Science Student** and aspiring Data Analyst focused on 
 
 ### 🚀 Featured Portfolio Projects
 
-#### 📊 [End-to-End E-Commerce Sales Pipeline](https://github.com/Alzeeshan1085/ECommerce-Sales-Data-Pipeline)
+#### 📊 [End-to-End E-Commerce Sales Pipeline](https://github.com/AIzeeshan1085/ECommerce-Sales-Data-Pipeline)
 - **Description:** Cleaned complex transactional data in Excel, structured and queried it inside MySQL, and engineered a live database connection to a dynamic Power BI Dashboard.
 - **Tools Used:** Excel, MySQL, Power BI.
 
