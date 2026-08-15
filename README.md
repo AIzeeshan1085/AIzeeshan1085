@@ -6,9 +6,12 @@ I am a passionate **Data Science Student** and aspiring Data Analyst focused on 
 
 ### 🛠️ Technical Tech Stack & Skills
 
-- **Programming & AI:** Python, Artificial Intelligence, Machine Learning
-- **Data Analytics & BI:** Microsoft Excel, Power BI (ETL & Data Modeling)
-- **Databases:** MySQL (Relational Database Management & Query Optimization)
+- **Data Science Student**
+- **Python**
+- **SQL**
+- **Excel**
+- **Power BI**
+- **Data Analysis**
 
 ---
 
