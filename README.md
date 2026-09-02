@@ -21,6 +21,9 @@ I am a passionate **Data Science Student** and aspiring Data Analyst focused on 
 - **Description:** Cleaned complex transactional data in Excel, structured and queried it inside MySQL, and engineered a live database connection to a dynamic Power BI Dashboard.
 - **Tools Used:** Excel, MySQL, Power BI.
 
+#### 📞 [Call Center Performance Analysis](https://github.com/AIzeeshan1085/call-center-performance-analysis)
+- **Description:** Analyzed call center performance data in Excel and developed an interactive dashboard to track key operational metrics, agent performance, call volume, and overall service performance.
+- **Tools Used:** Microsoft Excel, Pivot Tables, Charts, Dashboard.
 ---
 
 ### 📫 Connect with Me
